@@ -13,7 +13,7 @@ public class Driver3 {
         System.out.println("===================================");
         System.out.println("Selamat datang di Laundry Del");
         System.out.println("Siap melayani anda");
-        System.out.print("*****");
+        System.out.println("*****(BINTANG 5)");
         System.out.println("===================================");
 
         // Stok laundry
